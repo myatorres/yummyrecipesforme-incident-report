@@ -48,7 +48,5 @@ If you'd like to follow along or practice:
 
 ---
 
-## License
-
-This project is shared under the 
+*This project is for educational purposes only as part of a course lab activity.*
 
