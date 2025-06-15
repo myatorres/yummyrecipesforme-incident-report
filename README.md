@@ -15,13 +15,13 @@ A former employee compromised the web server for `yummyrecipesforme.com` via a b
 - **[Incident Report](incident_report.md)**  
   A detailed account of the incident, analysis of network protocols involved, and recommendations for remediation.
 
-- **[tcpdump Logs](data/tcpdump_log.txt)**  
+- **[tcpdump Logs](data/tcpdump_log.pdf)**  
   The packet captures showing DNS and HTTP traffic during the incident.
 
 - **[How to Read tcpdump Logs](data/how_to_read_tcpdump.pdf)**  
   A reference guide provided as part of the course.
 
-- **[Security Incident Report Template](templates/security_incident_report_template.md)**  
+- **[Security Incident Report Template](templates/security_incident_report_template.pdf)**  
   The original blank template used to structure this report.
 
 ---
